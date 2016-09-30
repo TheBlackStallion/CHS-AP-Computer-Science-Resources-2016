@@ -31,7 +31,7 @@
 
 ## JavaScript Snake
 
-*This is a link to a fire game where you can click on the link at the bottem of the page called (Source Code).
-This link will take you to the creators Github account where you can check out the code for the game in addtion to the creators other works.
+* This is a link to a fire game where you can click on the link at the bottem of the page called (Source Code).
+* This link will take you to the creator's Github account where you can check out the code for the game in addtion to the creator's other works.
 
 http://patorjk.com/games/snake/
