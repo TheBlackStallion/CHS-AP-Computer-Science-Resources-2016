@@ -28,3 +28,10 @@
 * [StackOverflow][SO]: is, according to their website, "Stack Overflow is a community of 4.7 million programmers, just like you, helping each other." The site is primarily questions and answers, the contents and well curated and you can often find information there that you need. A good reputation on Stack Overflow can be a good thing on your resume.
 
 [SO]: http://stackoverflow.com/
+
+## JavaScript Snake
+
+*This is a link to a fire game where you can click on the link at the bottem of the page called (Source Code).
+This link will take you to the creators Github account where you can check out the code for the game in addtion to the creators other works.
+
+http://patorjk.com/games/snake/
